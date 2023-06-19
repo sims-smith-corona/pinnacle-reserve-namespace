@@ -1,0 +1,11 @@
+{
+    "name": "pinnaclelabels/reserve-namespace",
+    "description": "A package meant to preseve this vendor namespace",
+    "authors": [
+        {
+            "name": "Justin Sims",
+            "email": "sims@pinnaclelabels.com"
+        }
+    ],
+    "require": {}
+}
